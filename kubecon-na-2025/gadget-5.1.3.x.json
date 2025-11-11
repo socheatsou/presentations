@@ -1,0 +1,18 @@
+{
+  "meta_id": "gadget",
+  "product_version": "5.1.3.x",
+  "build_id": "20251111040531",
+  "catalog_index_image_path": "artifactory.com/gadget-bucket/5.1.3.x",
+  "catalog_image_name": "gadget-catalog",
+  "image_tag": "5.1.3.x-latest",
+  "image_digest": "91c9484cf186cec4716cc28c2eba2f7de0f5ed8992a038f36fff9eaab2ca401a",
+  "created": "2025-10-09T10:50:32.1896040Z",
+  "updated": "2025-11-11T00:05:17.1692561917Z",
+  "ga": false,
+  "bvt_percentage": "80.9",
+  "code_coverage_files": "code_coverage/gadget/5.1.3.x",
+  "git_repo": "github.acme.com/gadget.git",
+  "git_commit": "acd51de99",
+  "channel": "v5.1",
+  "external_configs": "github.acme.com/gadget/blob/main/configs"
+}

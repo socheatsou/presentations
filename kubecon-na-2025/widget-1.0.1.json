@@ -1,0 +1,18 @@
+{
+  "meta_id": "widget",
+  "product_version": "1.0.1",
+  "build_id": "4618212",
+  "catalog_index_image_path": "artifactory.com/widget-bucket/1.0.1",
+  "catalog_image_name": "widget-catalog",
+  "image_tag": "1.0.1-latest",
+  "image_digest": "c2eba2f7de0f5ed8992a038f36fff9eaab2ca401a91c9484cf186cec4716cc28",
+  "created": "2025-02-09T14:50:32.1896040Z",
+  "updated": "2025-08-20T20:05:17.1692561917Z",
+  "ga": false,
+  "bvt_percentage": "92.3",
+  "code_coverage_files": "code_coverage/widget/1.0.1",
+  "git_repo": "github.acme.com/widget.git",
+  "git_commit": "92ba699",
+  "channel": "v1.0",
+  "external_configs": "github.acme.com/widget/blob/main/configs"
+}
